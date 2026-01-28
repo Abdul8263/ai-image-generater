@@ -1,0 +1,7 @@
+project_id = "pylpwnygqulamwnegipj"
+
+[functions.generate-image]
+verify_jwt = false
+
+[functions.summarize-text]
+verify_jwt = false
